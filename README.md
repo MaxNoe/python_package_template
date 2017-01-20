@@ -1,4 +1,4 @@
-# Python Package Template
+# Python Package Template [![Build Status](https://travis-ci.org/MaxNoe/python_package_template.svg?branch=master)](https://travis-ci.org/MaxNoe/python_package_template)
 A step-by-step introduction to python packaging
 
 To see what happend between steps, you can do
@@ -45,6 +45,8 @@ Go to https://travis-ci.org/ and click `login with github`.
 Enable travis for your repository.
 
 A quick guide for python projects can be found [here](https://docs.travis-ci.com/user/languages/python/).
+
+Repository after [step 4](https://github.com/MaxNoe/python_package_template/tree/step4)
 
 ### Step 5 – Proper documentation
 
