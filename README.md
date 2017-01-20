@@ -7,6 +7,8 @@ Add one of your many python scripts, that somebody asked you for.
 
 > Hey this is cool stuff, i also need to do this often. Why don't you share it?
 
+In this example, I will use a simplistic json to yaml converter.
+
 ### Step 2 – Create an installable python package
 
 Make it an installable python package, so people can do:
