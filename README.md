@@ -41,6 +41,11 @@ Repository after [step 3](https://github.com/MaxNoe/python_package_template/tree
 
 Setup travis
 
+Go to https://travis-ci.org/ and click `login with github`.
+Enable travis for your repository.
+
+A quick guide for python projects can be found [here](https://docs.travis-ci.com/user/languages/python/).
+
 ### Step 5 – Proper documentation
 
 Setup sphinx

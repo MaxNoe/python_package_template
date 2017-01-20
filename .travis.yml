@@ -1,0 +1,14 @@
+language: python
+
+python:
+  - "3.4"
+  - "3.5"
+
+install:
+  # pyflakes for general syntax check
+  - pip install pyflakes
+  - pip install .
+
+script:
+  - pyflakes json2yaml
+  - python setup.py test
