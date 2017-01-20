@@ -52,6 +52,19 @@ Repository after [step 4](https://github.com/MaxNoe/python_package_template/tree
 
 Setup sphinx
 
+I used
+```
+sphinx-apidoc --full -o docs .
+```
+
+Then we can run
+```
+python setup.py build_sphinx
+```
+And the result is in `build/sphinx/html`
+
+Repository after [step 5](https://github.com/MaxNoe/python_package_template/tree/step5)
+
 ### Step 6 – Publish
 
 Deploy to (test)-PyPI using travis
