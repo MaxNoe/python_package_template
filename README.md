@@ -20,6 +20,7 @@ pip install git+https://github.com/<myuser>/<mypackage>
 
 This is mostly explained here: https://packaging.python.org/distributing
 
+Repository after [step 2](https://github.com/MaxNoe/python_package_template/tree/step2)
 
 ### Step 3 – Unit tests
 
