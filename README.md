@@ -1,6 +1,11 @@
 # Python Package Template
 A step-by-step introduction to python packaging
 
+To see what happend between steps, you can do
+```
+git diff step2 step1
+```
+
 
 ### Step 1 – Share your code
 Add one of your many python scripts, that somebody asked you for.
@@ -24,7 +29,11 @@ Repository after [step 2](https://github.com/MaxNoe/python_package_template/tree
 
 ### Step 3 – Unit tests
 
-Add unit tests
+Add unit tests.
+
+We are using the now standard [pytest](http://doc.pytest.org/en/latest/).
+
+You should also read http://doc.pytest.org/en/latest/goodpractices.html
 
 ### Step 4 – Continous Integration
 
