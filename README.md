@@ -9,6 +9,7 @@ Add one of your many python scripts, that somebody asked you for.
 
 In this example, I will use a simplistic json to yaml converter.
 
+Repository after [step 1](https://github.com/MaxNoe/python_package_template/tree/step1)
 ### Step 2 – Create an installable python package
 
 Make it an installable python package, so people can do:
