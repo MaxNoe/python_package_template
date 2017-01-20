@@ -35,6 +35,8 @@ We are using the now standard [pytest](http://doc.pytest.org/en/latest/).
 
 You should also read http://doc.pytest.org/en/latest/goodpractices.html
 
+Repository after [step 3](https://github.com/MaxNoe/python_package_template/tree/step3)
+
 ### Step 4 – Continous Integration
 
 Setup travis
