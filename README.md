@@ -20,7 +20,7 @@ Repository after [step 1](https://github.com/MaxNoe/python_package_template/tree
 Make it an installable python package, so people can do:
 
 ```
-pip install git+https://github.com/<myuser>/<mypackage>
+pip install https://github.com/<myuser>/<mypackage>/archive/master.tar.gz
 ```
 
 This is mostly explained here: https://packaging.python.org/distributing
